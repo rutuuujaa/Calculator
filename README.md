@@ -1,3 +1,3 @@
 CALCULATOR
 
-An Basic Calculator web application for normal use!
+A Calculator created under the virtual internship program of Oasis Infobyte. 
